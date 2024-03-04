@@ -14,8 +14,57 @@
               "type": "full-calendar-view",
               "state": {}
             }
+          },
+          {
+            "id": "759c16b9391a0edf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2c3f1d48c0e21af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95c69696eef729e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ee6755178d7caef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled/Untitled.md"
+              }
             }
           },
           {
@@ -153,8 +206,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "788e0eaf731f02fa",
+  "active": "8ee6755178d7caef",
   "lastOpenFiles": [
+    "Untitled/Untitled 3.md",
+    "Untitled/Untitled 2.md",
+    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
     "DSA.md",
     "new file mother fuckerr.md",
     "heeloo.md",
