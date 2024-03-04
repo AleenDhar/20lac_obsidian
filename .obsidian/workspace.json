@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md"
+                "file": "DevOP/Docker.md"
               }
             }
           },
@@ -249,13 +249,13 @@
   },
   "active": "44864b4021be47c2",
   "lastOpenFiles": [
+    "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Segment Trees.md",
     "yo.md",
     "DSA/DSA.md",
     "DevOP/DevOP.md",
     "DevOP/Docker.md",
     "DevOP",
-    "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
     "DSA/Segment Trees",
