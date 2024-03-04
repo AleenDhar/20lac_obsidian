@@ -152,6 +152,18 @@
             }
           },
           {
+            "id": "d626e34278b1ff8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -164,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -307,10 +319,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "06c2a7cc0b33acfb",
+  "active": "d626e34278b1ff8f",
   "lastOpenFiles": [
-    "DevOP/Linux cli.md",
     "DevOP/Docker.md",
+    "Untitled.md",
+    "DevOP/Linux cli.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
@@ -343,7 +356,6 @@
     "Untitled 1/Untitled 1.md",
     "Untitled/Untitled.canvas",
     "Untitled 1/Untitled.md",
-    "Untitled 1/Untitled 2.md",
     "Untitled 1",
     "Untitled 2",
     "Excalidraw/Untitled.canvas",
