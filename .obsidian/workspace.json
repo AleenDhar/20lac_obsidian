@@ -4,67 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "27a8115fe533d82a",
+        "id": "24e38870a36bbbfb",
         "type": "tabs",
         "children": [
           {
-            "id": "fc82215829e6da8c",
+            "id": "8fd6913835c769e9",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "759c16b9391a0edf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c3f1d48c0e21af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95c69696eef729e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ee6755178d7caef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled/Untitled.md",
+                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled/Untitled.md"
+                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md"
               }
             }
           },
@@ -206,11 +159,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8ee6755178d7caef",
+  "active": "8fd6913835c769e9",
   "lastOpenFiles": [
-    "Untitled/Untitled 3.md",
-    "Untitled/Untitled 2.md",
+    "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
     "Untitled/Untitled.md",
+    "Untitled/Untitled 2.md",
+    "Untitled/Untitled 3.md",
     "Untitled/Untitled 1.md",
     "Untitled 2",
     "Untitled 1",
