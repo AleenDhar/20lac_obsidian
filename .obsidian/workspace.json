@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:DSA/easy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +138,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,7 +236,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "b6bd91c394b3681c",
+  "active": "6dca25637002efcb",
   "lastOpenFiles": [
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
