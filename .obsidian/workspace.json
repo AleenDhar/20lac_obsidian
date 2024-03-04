@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1/Untitled 1.md",
+                "file": "Untitled 2/Untitled 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1/Untitled 1.md",
+                "file": "Untitled 2/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1/Untitled 1.md",
+                "file": "Untitled 2/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1/Untitled 1.md"
+                "file": "Untitled 2/Untitled 2.md"
               }
             }
           },
@@ -179,14 +179,16 @@
   },
   "active": "f3559e68fe0041ef",
   "lastOpenFiles": [
-    "Untitled 1/Untitled.md",
     "Untitled 1/Untitled 1.md",
+    "Untitled/Untitled.md",
     "Untitled 2/Untitled 2.md",
+    "Untitled 2/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled 1/Untitled.md",
     "Untitled 1/Untitled 3.md",
     "Untitled 1/Untitled 2.md",
     "Untitled 1",
     "Untitled 2/Untitled 1.md",
-    "Untitled 2/Untitled.md",
     "Untitled 2",
     "Untitled/Untitled.canvas",
     "Excalidraw/Drawing 2024-03-04 09.29.40.excalidraw.md",
@@ -194,13 +196,11 @@
     "Excalidraw/Untitled.canvas",
     "Untitled",
     "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
-    "Untitled/Untitled 1.md",
     "Untitled 1/Untitled Kanban 1.md",
     "Untitled 1/Untitled Kanban.md",
     "Untitled/Untitled 2.md",
     "Untitled/Untitled 3.md",
     "Excalidraw",
-    "Untitled/Untitled.md",
     "DSA.md",
     "new file mother fuckerr.md",
     "heeloo.md",
