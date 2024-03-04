@@ -100,5 +100,7 @@ services:
 
 command to inspect the network
 ```
-docker network inspect
+docker network inspect <network name>
+
+docker network ls
 ```
