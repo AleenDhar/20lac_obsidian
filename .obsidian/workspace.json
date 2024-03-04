@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/DSA.md",
+                "file": "DSA/Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/DSA.md",
+                "file": "DSA/Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/DSA.md",
+                "file": "DSA/Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/DSA.md"
+                "file": "DSA/Array.md"
               }
             }
           },
@@ -171,13 +172,15 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c0e66fdd740b5dae",
+  "active": "54ae309ca018c6fe",
   "lastOpenFiles": [
-    "Untitled 2/Untitled 2.md",
     "DSA/DSA.md",
+    "Untitled 2/Untitled 2.md",
     "DSA/Array.md",
     "DSA/Arrays.md",
     "DSA/Untitled.md",
