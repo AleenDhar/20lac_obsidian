@@ -11,13 +11,67 @@
             "id": "8fd6913835c769e9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md"
+                "file": "Untitled/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "f17f8659f6a4af33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2533c89f167b5ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f3bb266e91b4e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3559e68fe0041ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1/Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -67,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -83,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
+                "file": "Untitled 1/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
+                "file": "Untitled 1/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md"
+                "file": "Untitled 1/Untitled 1.md"
               }
             }
           },
@@ -159,16 +213,28 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8fd6913835c769e9",
+  "active": "f3559e68fe0041ef",
   "lastOpenFiles": [
+    "Untitled 1/Untitled.md",
+    "Untitled 1/Untitled 2.md",
+    "Untitled 1/Untitled 3.md",
+    "Untitled 1/Untitled 1.md",
+    "Untitled/Untitled.canvas",
+    "Untitled 1",
+    "Excalidraw/Drawing 2024-03-04 09.29.40.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-04 09.25.29.excalidraw.md",
+    "Excalidraw/Untitled.canvas",
+    "Untitled",
     "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
-    "Untitled/Untitled.md",
+    "Untitled/Untitled 1.md",
+    "Untitled 1/Untitled Kanban 1.md",
+    "Untitled 1/Untitled Kanban.md",
+    "Untitled 2/Untitled 2.md",
     "Untitled/Untitled 2.md",
     "Untitled/Untitled 3.md",
-    "Untitled/Untitled 1.md",
+    "Excalidraw",
+    "Untitled/Untitled.md",
     "Untitled 2",
-    "Untitled 1",
-    "Untitled",
     "DSA.md",
     "new file mother fuckerr.md",
     "heeloo.md",
