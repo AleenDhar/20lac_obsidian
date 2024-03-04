@@ -109,7 +109,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "DevOP/Theory_DevOps/Theory_DevOps.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ae6b9298b7e77ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOP/Theory_DevOps/1.Waterfall Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c687c00b4d040bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOP/Theory_DevOps/3.Devops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06c2a7cc0b33acfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOP/Linux cli.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -178,7 +214,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.50484466552734
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -194,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "DevOP/Linux cli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "DevOP/Linux cli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "DevOP/Linux cli.md"
               }
             }
           },
@@ -271,17 +307,20 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "ce6428a1488c1261",
+  "active": "06c2a7cc0b33acfb",
   "lastOpenFiles": [
+    "DevOP/Docker.md",
+    "DevOP/Linux cli.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
-    "Untitled.md",
+    "DevOP/Theory_DevOps/3.Devops.md",
+    "DevOP/Theory_DevOps/2.Agile Model.md",
+    "DevOP/Theory_DevOps/1.Waterfall Model.md",
+    "DevOP/Theory_DevOps/4.Devops Tools.md",
     "DevOP/DevOP.md",
     "DevOP/Theory_DevOps",
     "images/Pasted image 20240305013839.png",
     "yo.md",
     "images",
-    "DevOP/Docker.md",
-    "DevOP/Linux cli.md",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Segment Trees.md",
     "DSA/DSA.md",
@@ -305,9 +344,6 @@
     "Untitled/Untitled.canvas",
     "Untitled 1/Untitled.md",
     "Untitled 1/Untitled 2.md",
-    "Untitled 2/Untitled.md",
-    "Untitled 2/Untitled 1.md",
-    "Untitled 1/Untitled 3.md",
     "Untitled 1",
     "Untitled 2",
     "Excalidraw/Untitled.canvas",
