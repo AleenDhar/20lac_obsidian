@@ -23,42 +23,6 @@
             }
           },
           {
-            "id": "f17f8659f6a4af33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2533c89f167b5ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f3bb266e91b4e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f3559e68fe0041ef",
             "type": "leaf",
             "state": {
@@ -71,7 +35,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,11 +180,15 @@
   "active": "f3559e68fe0041ef",
   "lastOpenFiles": [
     "Untitled 1/Untitled.md",
-    "Untitled 1/Untitled 2.md",
-    "Untitled 1/Untitled 3.md",
     "Untitled 1/Untitled 1.md",
-    "Untitled/Untitled.canvas",
+    "Untitled 2/Untitled 2.md",
+    "Untitled 1/Untitled 3.md",
+    "Untitled 1/Untitled 2.md",
     "Untitled 1",
+    "Untitled 2/Untitled 1.md",
+    "Untitled 2/Untitled.md",
+    "Untitled 2",
+    "Untitled/Untitled.canvas",
     "Excalidraw/Drawing 2024-03-04 09.29.40.excalidraw.md",
     "Excalidraw/Drawing 2024-03-04 09.25.29.excalidraw.md",
     "Excalidraw/Untitled.canvas",
@@ -229,12 +197,10 @@
     "Untitled/Untitled 1.md",
     "Untitled 1/Untitled Kanban 1.md",
     "Untitled 1/Untitled Kanban.md",
-    "Untitled 2/Untitled 2.md",
     "Untitled/Untitled 2.md",
     "Untitled/Untitled 3.md",
     "Excalidraw",
     "Untitled/Untitled.md",
-    "Untitled 2",
     "DSA.md",
     "new file mother fuckerr.md",
     "heeloo.md",
