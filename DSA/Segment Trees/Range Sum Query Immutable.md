@@ -4,6 +4,10 @@ tags:
   - "#DSA"
   - "#easy"
 ---
+# question
+
+
+without pre-sum 
 ```python
 class NumArray(object):
     def __init__(self, nums):
