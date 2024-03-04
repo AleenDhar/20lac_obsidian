@@ -60,9 +60,11 @@ ENTRYPOINT [ "node","index" ] #CMD ["node","index"]
 ```
 # docker-compose.yml
 
-running docker-compose
+running, closing and running in the background docker-compose
 ```
 docker compose up
+docker compose down 
+docker compose up -d #d for detached mode
 ```
 
 docker-compose.yml
