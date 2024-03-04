@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:DSA/easy",
+                "query": "tag:#used",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -247,7 +248,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "a67fb1e40d5312a3",
+  "active": "6dca25637002efcb",
   "lastOpenFiles": [
     "DevOP/DevOP.md",
     "DSA/DSA.md",

@@ -1,5 +1,6 @@
 # basics
 ```cli
+#used to run images
 docker run -v
 
 docker run -it ubuntu
@@ -7,7 +8,10 @@ docker run -it ubuntu
 docker run -it node
 ```
 
+#used for the containers
 ```
+
+
 docker start <name/id of the container>
 docker stop <noc>
 
@@ -29,5 +33,29 @@ docker build -t <name> .
 ```
 
 ```Dockerfile
-FROM 
+  
+
+FROM ubuntu:latest
+
+RUN apt-get update && apt-get install -y curl
+
+RUN curl -sL https://deb.nodesource.com/setup_18.x | bash -
+
+RUN apt-get update -y
+
+RUN apt-get install -y nodejs
+
+COPY . /home/app
+
+WORKDIR /home/app
+
+RUN npm install
+
+  
+
+EXPOSE 5000
+
+  
+
+ENTRYPOINT [ "node","index" ] #CMD ["node","index"]
 ```
