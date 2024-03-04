@@ -11,24 +11,11 @@
             "id": "fc82215829e6da8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "37ab1725c9dbcce6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DSA.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "788e0eaf731f02fa",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -152,10 +144,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "37ab1725c9dbcce6",
+  "active": "788e0eaf731f02fa",
   "lastOpenFiles": [
     "DSA.md",
     "new file mother fuckerr.md",
