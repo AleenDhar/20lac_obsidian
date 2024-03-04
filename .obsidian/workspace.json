@@ -97,7 +97,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DevOP/Theory_DevOps/Theory_DevOps.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce6428a1488c1261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -259,14 +271,19 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "1adf095496a0a104",
+  "active": "ce6428a1488c1261",
   "lastOpenFiles": [
-    "DevOP/Linux cli.md",
-    "DevOP/Docker.md",
+    "DevOP/Theory_DevOps/Theory_DevOps.md",
+    "Untitled.md",
     "DevOP/DevOP.md",
+    "DevOP/Theory_DevOps",
+    "images/Pasted image 20240305013839.png",
+    "yo.md",
+    "images",
+    "DevOP/Docker.md",
+    "DevOP/Linux cli.md",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Segment Trees.md",
-    "yo.md",
     "DSA/DSA.md",
     "DevOP",
     "DSA/Segment Trees/Untitled 3.md",
@@ -291,12 +308,9 @@
     "Untitled 2/Untitled.md",
     "Untitled 2/Untitled 1.md",
     "Untitled 1/Untitled 3.md",
-    "Excalidraw/Drawing 2024-03-04 09.25.29.excalidraw.md",
-    "Untitled/Untitled 1.md",
     "Untitled 1",
     "Untitled 2",
     "Excalidraw/Untitled.canvas",
-    "Excalidraw",
-    "20lac"
+    "Excalidraw"
   ]
 }
