@@ -1,6 +1,6 @@
 # basics
 
-check all the docker containers
+check all the docker containers that are up and running
 ```
 docker container ls
 ```
