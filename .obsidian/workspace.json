@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Array.md",
+                "file": "DSA/DSA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d83bddd1885695d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/DSA.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5ee9626ca632011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Array/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Array.md",
+                "file": "DSA/Array/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Array.md",
+                "file": "DSA/Array/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Array.md"
+                "file": "DSA/Array/Untitled.md"
               }
             }
           },
@@ -177,11 +200,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "54ae309ca018c6fe",
+  "active": "a5ee9626ca632011",
   "lastOpenFiles": [
     "DSA/DSA.md",
-    "Untitled 2/Untitled 2.md",
+    "DSA/Array/Untitled.md",
+    "DSA/Array",
+    "DSA/Array/Untitled.md",
+    "DSA/Array",
     "DSA/Array.md",
+    "Untitled 2/Untitled 2.md",
     "DSA/Arrays.md",
     "DSA/Untitled.md",
     "DSA",
