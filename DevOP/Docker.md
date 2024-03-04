@@ -23,6 +23,11 @@ docker run -it -p <main device port>:<docker port> <container name/id>
 
 # docker file
 
+docker build command:
+```
+docker build -t <name> .
+```
+
 ```Dockerfile
 FROM 
 ```
