@@ -14,5 +14,6 @@
   "obsidian-tasks-plugin",
   "folder-note-plugin",
   "file-explorer-note-count",
-  "waypoint"
+  "waypoint",
+  "templater-obsidian"
 ]
