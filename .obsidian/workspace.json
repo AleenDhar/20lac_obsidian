@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/DevOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a67fb1e40d5312a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOP/Docker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
+                "file": "DevOP/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md"
+                "file": "DevOP/Docker.md"
               }
             }
           },
@@ -235,14 +247,17 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "44864b4021be47c2",
+  "active": "a67fb1e40d5312a3",
   "lastOpenFiles": [
-    "yo.md",
+    "DevOP/DevOP.md",
+    "DevOP/Docker.md",
+    "DSA/DSA.md",
+    "DevOP",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
+    "yo.md",
     "DSA/Segment Trees/Segment Trees.md",
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
-    "DSA/DSA.md",
     "DSA/Segment Trees",
     "DSA/Array/Array.md",
     "DSA/Array/Untitled.md",
@@ -269,8 +284,6 @@
     "Untitled 2",
     "Excalidraw/Drawing 2024-03-04 09.29.40.excalidraw.md",
     "Excalidraw/Untitled.canvas",
-    "Untitled 1/Drawing 2024-03-04 09.21.29.excalidraw.md",
-    "Untitled 1/Untitled Kanban 1.md",
     "Excalidraw",
     "20lac"
   ]
