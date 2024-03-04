@@ -1,4 +1,8 @@
 # basics
 ```cli
-docker run 
+docker run -v
+
+docker run -it ubuntu
+
+docker run -it node
 ```
