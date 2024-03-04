@@ -8,8 +8,21 @@ docker run -it node
 ```
 
 ```
-docker exec -it <id of the container> bash
+docker start <name/id of the container>
+docker stop <noc>
+
+docker exec -it <name/id of the container> bash
 
 #stupid commands
 docker exec <id of the container> ls
+```
+# port mapping
+```
+docker run it -p <main device port>:<docker port> <container name/id>
+```
+
+# docker file
+
+```Dockerfile
+
 ```
