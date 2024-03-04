@@ -1,6 +1,7 @@
 # basics
+
+used to run images
 ```cli
-#used to run images
 docker run -v
 
 docker run -it ubuntu
@@ -8,10 +9,8 @@ docker run -it ubuntu
 docker run -it node
 ```
 
-#used for the containers
+used for the containers
 ```
-
-
 docker start <name/id of the container>
 docker stop <noc>
 

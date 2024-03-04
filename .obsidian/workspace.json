@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/DevOP.md",
+                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "DSA/Segment Trees/Range Sum Query Immutable.md"
               }
             }
           },
@@ -248,15 +247,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "6dca25637002efcb",
+  "active": "44864b4021be47c2",
   "lastOpenFiles": [
-    "DevOP/DevOP.md",
+    "DSA/Segment Trees/Segment Trees.md",
+    "yo.md",
     "DSA/DSA.md",
+    "DevOP/DevOP.md",
     "DevOP/Docker.md",
     "DevOP",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
-    "yo.md",
-    "DSA/Segment Trees/Segment Trees.md",
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
     "DSA/Segment Trees",

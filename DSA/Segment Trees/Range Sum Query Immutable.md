@@ -7,7 +7,7 @@ tags:
 # question
 
 
-without pre-sum 
+without pre-sum : This is not the optimal soln as the max time taken can be O(n)
 ```python
 class NumArray(object):
     def __init__(self, nums):
@@ -17,3 +17,4 @@ class NumArray(object):
         summ = sum(self.nums[left:right+1])
         return summ
 ```
+Using Pre-sum: we calculate the pre-sum (sum of all the elements appearing before + current number)
