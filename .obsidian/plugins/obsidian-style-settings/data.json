@@ -1,12 +1,12 @@
 {
-  "ITS-AT@@slrvb-b": false,
-  "ITS-AT@@slrvb-g": false,
+  "ITS-AT@@slrvb-b": true,
+  "ITS-AT@@slrvb-g": true,
   "ITS-AT@@s-d": false,
-  "ITS-AT@@select": "none",
+  "ITS-AT@@select": "dnd",
   "ITS-AT@@drwn": false,
   "ITS-AT@@t-d": false,
   "ITS-AT@@nord": false,
-  "ITS-AT@@notion": true,
+  "ITS-AT@@notion": false,
   "ITS-AT@@mini": false,
   "ITS-AT@@its-d": false,
   "ITS-AT@@paper": false
