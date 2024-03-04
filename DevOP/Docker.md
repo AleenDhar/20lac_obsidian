@@ -59,3 +59,16 @@ EXPOSE 5000
 ENTRYPOINT [ "node","index" ] #CMD ["node","index"]
 ```
 # docker-compose.yml
+
+```
+version:"3.8"
+
+services:
+	postgres: #name
+		image: postgres #hub.docker.com
+		ports:
+			-"5432:5432"
+		enviroment:
+			POSTGRES_URER: postgres
+			PO
+```
