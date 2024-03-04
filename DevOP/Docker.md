@@ -60,6 +60,12 @@ ENTRYPOINT [ "node","index" ] #CMD ["node","index"]
 ```
 # docker-compose.yml
 
+running docker-compose
+```
+docker compose up
+```
+
+docker-compose.yml
 ```
 version:"3.8"
 
@@ -70,5 +76,10 @@ services:
 			-"5432:5432"
 		enviroment:
 			POSTGRES_URER: postgres
-			PO
+			POSTGRES_DB: review
+			POSTGRES_PASSWORD: password
+	regis: #name
+		image: redis
+		ports:
+			-"6379:6379"
 ```
