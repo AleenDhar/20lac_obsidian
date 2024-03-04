@@ -92,6 +92,7 @@ services:
 
 ```
 # docker networking
+network drivers:
 - bridge
 - host
 - ipvlan
@@ -103,4 +104,13 @@ command to inspect the network
 docker network inspect <network name>
 
 docker network ls
+```
+
+run on a specific network
+```
+docker run -it --network=host ubuntu
+```
+make you own private network (here -d stands for driver)
+```
+docker network create -d bridge 
 ```
