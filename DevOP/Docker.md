@@ -1,5 +1,9 @@
 # basics
 
+check all the docker containers
+```
+docker container ls
+```
 used to run images
 ```cli
 docker run -v
