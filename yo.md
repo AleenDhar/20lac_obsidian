@@ -1,3 +1,8 @@
+---
+cssclasses:
+  - dashboard
+---
+# Family
 - 🏈 Sunday Game
     - [[Spicy-Sweet Buffalo Popcorn]]
     - [[Guest list]]
