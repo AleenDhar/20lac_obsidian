@@ -67,19 +67,21 @@ docker compose up
 
 docker-compose.yml
 ```
-version:"3.8"
+version:'3.8'
 
+version: '3.8'
 services:
-	postgres: #name
-		image: postgres #hub.docker.com
-		ports:
-			-"5432:5432"
-		enviroment:
-			POSTGRES_URER: postgres
-			POSTGRES_DB: review
-			POSTGRES_PASSWORD: password
-	regis: #name
-		image: redis
-		ports:
-			-"6379:6379"
+  postgres: # name
+    image: postgres # hub.docker.com
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_DB: review
+      POSTGRES_PASSWORD: password
+  redis: # name
+    image: redis
+    ports:
+      - "6379:6379"
+
 ```
