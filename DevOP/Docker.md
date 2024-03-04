@@ -18,11 +18,11 @@ docker exec <id of the container> ls
 ```
 # port mapping
 ```
-docker run it -p <main device port>:<docker port> <container name/id>
+docker run -it -p <main device port>:<docker port> <container name/id>
 ```
 
 # docker file
 
 ```Dockerfile
-
+FROM 
 ```
