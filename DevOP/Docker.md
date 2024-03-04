@@ -91,3 +91,14 @@ services:
       - "6379:6379"
 
 ```
+# docker networking
+- bridge
+- host
+- ipvlan
+- macvlan
+- overlay
+
+command to inspect the network
+```
+docker network inspect
+```
