@@ -4,4 +4,8 @@ docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:lat
 ```
 
 ```
+docker ps
+docker exec -it <id or name of the container> bash
 ```
+
+after open
