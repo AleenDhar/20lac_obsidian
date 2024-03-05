@@ -164,6 +164,18 @@
             }
           },
           {
+            "id": "3edbd79e002b55c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOP/Redis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -242,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Kafka.md",
+                "file": "DevOP/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Kafka.md",
+                "file": "DevOP/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Kafka.md"
+                "file": "DevOP/Redis.md"
               }
             }
           },
@@ -319,10 +331,11 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "d626e34278b1ff8f",
+  "active": "3edbd79e002b55c0",
   "lastOpenFiles": [
-    "DevOP/Docker.md",
     "DevOP/Kafka.md",
+    "DevOP/Redis.md",
+    "DevOP/Docker.md",
     "DevOP/Linux cli.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/Theory_DevOps/3.Devops.md",
@@ -355,7 +368,6 @@
     "Untitled/Untitled.md",
     "Untitled 1/Untitled 1.md",
     "Untitled/Untitled.canvas",
-    "Untitled 1/Untitled.md",
     "Untitled 1",
     "Untitled 2",
     "Excalidraw/Untitled.canvas",
