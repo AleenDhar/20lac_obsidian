@@ -2,7 +2,9 @@
 
 check all the docker containers that are up and running
 ```
-docker container ls
+docker container ls 
+or
+docker ps #same as the above code
 ```
 used to run images
 ```cli
