@@ -8,4 +8,7 @@ docker ps
 docker exec -it <id or name of the container> bash
 ```
 
-after open
+after opening
+```CLI
+redis-cli
+```
