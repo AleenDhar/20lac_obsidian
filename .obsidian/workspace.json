@@ -169,7 +169,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "DevOP/DevOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5631e67432c9822c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grafana, Prometheus and Loki.md",
                 "mode": "source",
                 "source": false
               }
@@ -188,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "Grafana, Prometheus and Loki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "Grafana, Prometheus and Loki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Redis.md"
+                "file": "Grafana, Prometheus and Loki.md"
               }
             }
           },
@@ -331,14 +343,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3edbd79e002b55c0",
+  "active": "5631e67432c9822c",
   "lastOpenFiles": [
+    "DevOP/DevOP.md",
+    "Grafana, Prometheus and Loki.md",
+    "DSA/DSA.md",
     "DevOP/Linux cli.md",
+    "DevOP/Redis.md",
     "DevOP/Kafka.md",
     "DevOP/Docker.md",
-    "DevOP/DevOP.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
-    "DevOP/Redis.md",
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
     "DevOP/Theory_DevOps/1.Waterfall Model.md",
@@ -349,7 +363,6 @@
     "images",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Segment Trees.md",
-    "DSA/DSA.md",
     "DevOP",
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
@@ -366,7 +379,6 @@
     "DSA",
     "DSA.md",
     "Untitled/Untitled.md",
-    "Untitled 1/Untitled 1.md",
     "Untitled/Untitled.canvas",
     "Untitled 1",
     "Untitled 2",
