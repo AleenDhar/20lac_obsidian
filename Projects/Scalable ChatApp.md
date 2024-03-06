@@ -2,7 +2,8 @@
 
 - what is "this._io"? what is the purpose of the  "underscore"?
 - what is context api? what is Redux ? i feel like i need to re learn react AHHHHHHH
-- how the oops work in javascript and typescript
+- how the oops work in javascript and typescript?
+- what is childern in nextjs?
 # the process
 install turborepo
 ```
