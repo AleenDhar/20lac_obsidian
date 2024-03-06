@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafana, Prometheus and Loki.md",
+                "file": "DevOP/Grafana, Prometheus and Loki.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafana, Prometheus and Loki.md",
+                "file": "DevOP/Grafana, Prometheus and Loki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grafana, Prometheus and Loki.md",
+                "file": "DevOP/Grafana, Prometheus and Loki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grafana, Prometheus and Loki.md"
+                "file": "DevOP/Grafana, Prometheus and Loki.md"
               }
             }
           },
@@ -343,10 +343,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "5631e67432c9822c",
+  "active": "54ae309ca018c6fe",
   "lastOpenFiles": [
     "DevOP/DevOP.md",
-    "Grafana, Prometheus and Loki.md",
+    "DevOP/Grafana, Prometheus and Loki.md",
     "DSA/DSA.md",
     "DevOP/Linux cli.md",
     "DevOP/Redis.md",
