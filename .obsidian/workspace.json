@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/DevOP.md",
+                "file": "DevOP/Kafka.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/DevOP.md",
+                "file": "DevOP/Kafka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/DevOP.md",
+                "file": "DevOP/Kafka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/DevOP.md"
+                "file": "DevOP/Kafka.md"
               }
             }
           },
@@ -358,10 +358,10 @@
   "active": "8de42841b890b302",
   "lastOpenFiles": [
     "DevOP/Theory_DevOps/Theory_DevOps.md",
+    "DevOP/DevOP.md",
     "DevOP/Docker.md",
     "images/Pasted image 20240305013839.png",
     "DevOP/Kafka.md",
-    "DevOP/DevOP.md",
     "DSA/DSA.md",
     "Projects/Scalable ChatApp.md",
     "Projects/Projects.md",
