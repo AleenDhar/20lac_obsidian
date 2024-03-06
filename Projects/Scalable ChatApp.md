@@ -4,6 +4,7 @@
 - what is context api? what is Redux ? i feel like i need to re learn react AHHHHHHH
 - how the oops work in javascript and typescript?
 - what is childern in nextjs?
+- what does useCallback and useEffect and useContext do?
 # the process
 install turborepo
 ```
