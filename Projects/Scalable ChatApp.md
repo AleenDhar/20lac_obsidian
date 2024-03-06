@@ -44,3 +44,11 @@ rootDir":"./scr"
 outDir":"./dist"
 ```
 
+# testing
+
+the messages should be received by all the servers  
+```
+cd app/server/
+export PORT=8001 && npm start
+export PORT=8002 && npm start
+```
