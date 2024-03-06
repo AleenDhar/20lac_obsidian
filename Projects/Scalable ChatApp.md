@@ -1,4 +1,9 @@
-inatall turborepo
+# my doubts
+
+- what is "this._io"? what is the purpose of the  "underscore"?
+- what is context api? what is Redux ?
+# the process
+install turborepo
 ```
 npx create-turbo@latest
 ```
