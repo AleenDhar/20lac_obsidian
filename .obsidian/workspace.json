@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "DevOP/DevOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "DevOP/DevOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "DevOP/DevOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Scalable ChatApp.md"
+                "file": "DevOP/DevOP.md"
               }
             }
           },
@@ -357,23 +357,23 @@
   },
   "active": "8de42841b890b302",
   "lastOpenFiles": [
-    "Projects/Projects.md",
-    "Projects/Scalable ChatApp.md",
-    "Projects",
+    "DevOP/Theory_DevOps/Theory_DevOps.md",
+    "DevOP/Docker.md",
+    "images/Pasted image 20240305013839.png",
+    "DevOP/Kafka.md",
     "DevOP/DevOP.md",
     "DSA/DSA.md",
+    "Projects/Scalable ChatApp.md",
+    "Projects/Projects.md",
+    "Projects",
     "DevOP/Grafana, Prometheus and Loki.md",
     "DevOP/Linux cli.md",
     "DevOP/Redis.md",
-    "DevOP/Kafka.md",
-    "DevOP/Docker.md",
-    "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
     "DevOP/Theory_DevOps/1.Waterfall Model.md",
     "DevOP/Theory_DevOps/4.Devops Tools.md",
     "DevOP/Theory_DevOps",
-    "images/Pasted image 20240305013839.png",
     "yo.md",
     "images",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
@@ -390,7 +390,6 @@
     "DSA/Array.md",
     "Untitled 2/Untitled 2.md",
     "DSA/Arrays.md",
-    "DSA/Untitled.md",
     "DSA",
     "Untitled/Untitled.canvas",
     "Untitled 1",
