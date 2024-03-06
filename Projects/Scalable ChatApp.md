@@ -47,8 +47,18 @@ outDir":"./dist"
 # testing
 
 the messages should be received by all the servers  
-```
+```linux
 cd app/server/
 export PORT=8001 && npm start
 export PORT=8002 && npm start
+```
+for windows cmd
+```
+cd app/server/
+set PORT=8001 && npm start
+set PORT=8002 && npm start
+```
+for powershell
+```
+
 ```
