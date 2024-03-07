@@ -1,1 +1,1 @@
-# connecting to a nodejs ba
+# connecting to a nodejs backend
