@@ -25,6 +25,8 @@ inside package.json
 	"version":"1.0.0",
 	"private":true,
 	"script":{
+		"start": "node dist/index",
+		"build": "tsc -p .",
 		"dev":"tsc-watch --onSuccess \"node dist/index.js""
 	}
 }
