@@ -32,6 +32,7 @@ inside package.json
 }
 ```
 
+adding typescript:
 ```
 yarn workspace server add typescript -D
 yarn workspace server add tsc-watch -D
