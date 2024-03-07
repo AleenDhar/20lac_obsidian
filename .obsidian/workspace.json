@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nextjs.md",
+                "file": "Projects/Scalable ChatApp.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nextjs.md",
+                "file": "Projects/Scalable ChatApp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nextjs.md",
+                "file": "Projects/Scalable ChatApp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nextjs.md"
+                "file": "Projects/Scalable ChatApp.md"
               }
             }
           },
@@ -369,8 +369,8 @@
   },
   "active": "2e6d399ed44404ff",
   "lastOpenFiles": [
-    "DevOP/DevOP.md",
     "Nextjs.md",
+    "DevOP/DevOP.md",
     "FullStack",
     "DSA/DSA.md",
     "DevOP/Kafka.md",
