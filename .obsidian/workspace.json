@@ -193,7 +193,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "DevOP/DevOP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e6d399ed44404ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -278,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "Nextjs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Redis.md",
+                "file": "Nextjs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Redis.md"
+                "file": "Nextjs.md"
               }
             }
           },
@@ -355,20 +367,22 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "8de42841b890b302",
+  "active": "2e6d399ed44404ff",
   "lastOpenFiles": [
+    "DevOP/DevOP.md",
+    "Nextjs.md",
+    "FullStack",
+    "DSA/DSA.md",
     "DevOP/Kafka.md",
+    "DevOP/Redis.md",
     "DevOP/Docker.md",
     "Projects/Scalable ChatApp.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
-    "DevOP/DevOP.md",
     "images/Pasted image 20240305013839.png",
-    "DSA/DSA.md",
     "Projects/Projects.md",
     "Projects",
     "DevOP/Grafana, Prometheus and Loki.md",
     "DevOP/Linux cli.md",
-    "DevOP/Redis.md",
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
     "DevOP/Theory_DevOps/1.Waterfall Model.md",
@@ -393,7 +407,6 @@
     "DSA",
     "Untitled/Untitled.canvas",
     "Untitled 1",
-    "Untitled 2",
     "Excalidraw/Untitled.canvas"
   ]
 }
