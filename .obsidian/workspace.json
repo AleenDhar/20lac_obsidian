@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DevOP/Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DevOP/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DevOP/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "DevOP/Redis.md"
               }
             }
           },
@@ -357,11 +357,11 @@
   },
   "active": "8de42841b890b302",
   "lastOpenFiles": [
-    "Projects/Scalable ChatApp.md",
     "DevOP/Kafka.md",
+    "DevOP/Docker.md",
+    "Projects/Scalable ChatApp.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/DevOP.md",
-    "DevOP/Docker.md",
     "images/Pasted image 20240305013839.png",
     "DSA/DSA.md",
     "Projects/Projects.md",
