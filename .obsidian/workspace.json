@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodejs/Nodejs.md",
+                "file": "FullStack/Nodejs/Nodejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodejs/making a server.md",
+                "file": "FullStack/Nodejs/making a server.md",
                 "mode": "source",
                 "source": false
               }
@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nodejs/Nodejs.md",
+                "file": "FullStack/Nodejs/Nodejs.md",
                 "mode": "source",
                 "source": false
               }
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nodejs/Nodejs.md",
+                "file": "FullStack/Nodejs/Nodejs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nodejs/Nodejs.md",
+                "file": "FullStack/Nodejs/Nodejs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nodejs/Nodejs.md"
+                "file": "FullStack/Nodejs/Nodejs.md"
               }
             }
           },
@@ -393,12 +393,12 @@
   },
   "active": "b634e2e3d245ca3a",
   "lastOpenFiles": [
-    "Nodejs/Socker.io.md",
-    "Nodejs/making a server.md",
-    "Nodejs/Nodejs.md",
+    "FullStack/Nodejs/Socker.io.md",
+    "FullStack/Nodejs/making a server.md",
+    "FullStack/Nodejs/Nodejs.md",
     "Nextjs.md",
     "Projects/Scalable ChatApp.md",
-    "Nodejs",
+    "FullStack/Nodejs",
     "DevOP/DevOP.md",
     "FullStack",
     "DSA/DSA.md",
