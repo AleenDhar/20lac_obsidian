@@ -11,6 +11,12 @@ const io = new Server(server,()=>{
 	}
 })
 
-io.on("connection",)
+io.on("connection",(socket)=>{
+	console.log(socket.id)
 
+	socket.on("disconnect",()=>{
+		console.log("")
+	})
+})
+server.listen(8000,()=>console.log(`server started on port: 8000`))
 ```
