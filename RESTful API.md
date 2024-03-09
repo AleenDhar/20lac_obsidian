@@ -9,4 +9,7 @@ app.route("/api/user/:id")
 	cosnt user = user.find((user)=> user.id === id)
 	return res.json(user)
 })
+.patch((req,res)=>{
+ //patch 
+})
 ```
