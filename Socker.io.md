@@ -1,5 +1,16 @@
-```
+```javaScript
 const {Server} = require("socketio")
+const http = require("http")
+const express = require("express")
+const app = express()
 
-const io = new Server
+cosnt server = http.createServer()
+const io = new Server(server,()=>{
+	cors:{
+		origin:"http://localhost:3000"
+	}
+})
+
+io.on("connection",)
+
 ```
