@@ -241,7 +241,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "javascript.md",
+                "file": "FullStack/Nodejs/Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c47acee9ebfee9cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESTful API.md",
                 "mode": "source",
                 "source": false
               }
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -326,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript.md",
+                "file": "RESTful API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript.md",
+                "file": "RESTful API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript.md"
+                "file": "RESTful API.md"
               }
             }
           },
@@ -403,16 +415,18 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "509e93aef9dafc9d",
+  "active": "c47acee9ebfee9cc",
   "lastOpenFiles": [
     "FullStack/Nodejs/Nodejs.md",
+    "RESTful API.md",
+    "DevOP/DevOP.md",
+    "Projects/Scalable ChatApp.md",
+    "Projects/Projects.md",
     "javascript.md",
     "FullStack/Nodejs/Socker.io.md",
     "FullStack/Nodejs/making a server.md",
     "Nextjs.md",
-    "Projects/Scalable ChatApp.md",
     "FullStack/Nodejs",
-    "DevOP/DevOP.md",
     "FullStack",
     "DSA/DSA.md",
     "DevOP/Kafka.md",
@@ -420,7 +434,6 @@
     "DevOP/Docker.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "images/Pasted image 20240305013839.png",
-    "Projects/Projects.md",
     "Projects",
     "DevOP/Grafana, Prometheus and Loki.md",
     "DevOP/Linux cli.md",
@@ -438,7 +451,6 @@
     "DSA/Segment Trees/Untitled 2.md",
     "DSA/Segment Trees",
     "DSA/Array/Array.md",
-    "DSA/Array/Untitled.md",
     "DSA/Array",
     "DSA/Array",
     "DSA",
