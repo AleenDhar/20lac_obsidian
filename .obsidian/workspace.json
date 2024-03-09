@@ -205,7 +205,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "Nodejs/Nodejs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4c441ba2590269c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nodejs/making a server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b634e2e3d245ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Socker.io.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -290,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "Socker.io.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Scalable ChatApp.md",
+                "file": "Socker.io.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Scalable ChatApp.md"
+                "file": "Socker.io.md"
               }
             }
           },
@@ -367,8 +391,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "2e6d399ed44404ff",
+  "active": "b634e2e3d245ca3a",
   "lastOpenFiles": [
+    "Nodejs/making a server.md",
+    "Socker.io.md",
+    "Nodejs/Nodejs.md",
+    "Projects/Scalable ChatApp.md",
+    "Nodejs",
     "Nextjs.md",
     "DevOP/DevOP.md",
     "FullStack",
@@ -376,7 +405,6 @@
     "DevOP/Kafka.md",
     "DevOP/Redis.md",
     "DevOP/Docker.md",
-    "Projects/Scalable ChatApp.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "images/Pasted image 20240305013839.png",
     "Projects/Projects.md",
@@ -401,12 +429,8 @@
     "DSA/Array/Untitled 1.md",
     "DSA/Array",
     "DSA/Array",
-    "DSA/Array.md",
-    "Untitled 2/Untitled 2.md",
-    "DSA/Arrays.md",
     "DSA",
     "Untitled/Untitled.canvas",
-    "Untitled 1",
     "Excalidraw/Untitled.canvas"
   ]
 }
