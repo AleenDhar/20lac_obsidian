@@ -236,6 +236,18 @@
             }
           },
           {
+            "id": "509e93aef9dafc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -314,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FullStack/Nodejs/Nodejs.md",
+                "file": "javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -331,7 +343,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FullStack/Nodejs/Nodejs.md",
+                "file": "javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FullStack/Nodejs/Nodejs.md"
+                "file": "javascript.md"
               }
             }
           },
@@ -391,11 +403,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "b634e2e3d245ca3a",
+  "active": "509e93aef9dafc9d",
   "lastOpenFiles": [
+    "FullStack/Nodejs/Nodejs.md",
+    "javascript.md",
     "FullStack/Nodejs/Socker.io.md",
     "FullStack/Nodejs/making a server.md",
-    "FullStack/Nodejs/Nodejs.md",
     "Nextjs.md",
     "Projects/Scalable ChatApp.md",
     "FullStack/Nodejs",
@@ -426,7 +439,6 @@
     "DSA/Segment Trees",
     "DSA/Array/Array.md",
     "DSA/Array/Untitled.md",
-    "DSA/Array/Untitled 1.md",
     "DSA/Array",
     "DSA/Array",
     "DSA",
