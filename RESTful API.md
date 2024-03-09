@@ -6,6 +6,7 @@
 app.route("/api/user/:id")
 .get((req,res)=>{
 	const id = Number(req.parmas.id)
-	cosnt user = user.find((user)=> user.id ===)
+	cosnt user = user.find((user)=> user.id === id)
+	return res.json(user)
 })
 ```
