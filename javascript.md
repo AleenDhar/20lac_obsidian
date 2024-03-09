@@ -12,3 +12,5 @@ const fun = function(){
 
 }
 ```
+
+# oops in js
