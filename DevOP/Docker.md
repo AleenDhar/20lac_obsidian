@@ -75,8 +75,6 @@ docker compose up -d #d for detached mode
 
 docker-compose.yml
 ```
-version:'3.8'
-
 version: '3.8'
 services:
   postgres: # name

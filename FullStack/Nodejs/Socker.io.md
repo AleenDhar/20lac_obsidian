@@ -4,7 +4,7 @@ const http = require("http")
 const express = require("express")
 const app = express()
 
-cosnt server = http.createServer()
+const server = http.createServer()
 
 
 const io = new Server(server,()=>{
