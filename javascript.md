@@ -20,6 +20,7 @@ class name{
 }
 ```
 # higher order loops
-```
-for in
+```JAVASCRIPT
+//forof
+for (const i of obj)
 ```
