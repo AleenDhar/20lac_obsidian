@@ -14,3 +14,7 @@ const fun = function(){
 ```
 
 # oops in js
+```
+class
+```
+# higher order loops

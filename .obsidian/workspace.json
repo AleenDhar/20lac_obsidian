@@ -253,7 +253,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "javascript.md",
                 "mode": "source",
                 "source": false
               }
@@ -338,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "javascript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "javascript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -378,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "javascript.md"
               }
             }
           },
@@ -417,12 +417,14 @@
   },
   "active": "c47acee9ebfee9cc",
   "lastOpenFiles": [
+    "Projects/Projects.md",
     "DevOP/DevOP.md",
+    "DevOP/Theory_DevOps/Theory_DevOps.md",
+    "DevOP/Docker.md",
     "FullStack/Nodejs/Socker.io.md",
     "RESTful API.md",
     "FullStack/Nodejs/Nodejs.md",
     "Projects/Scalable ChatApp.md",
-    "Projects/Projects.md",
     "javascript.md",
     "FullStack/Nodejs/making a server.md",
     "Nextjs.md",
@@ -431,8 +433,6 @@
     "DSA/DSA.md",
     "DevOP/Kafka.md",
     "DevOP/Redis.md",
-    "DevOP/Docker.md",
-    "DevOP/Theory_DevOps/Theory_DevOps.md",
     "images/Pasted image 20240305013839.png",
     "Projects",
     "DevOP/Grafana, Prometheus and Loki.md",
