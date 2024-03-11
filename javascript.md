@@ -15,6 +15,11 @@ const fun = function(){
 
 # oops in js
 ```
-class
+class name{
+
+}
 ```
 # higher order loops
+```
+for in
+```
