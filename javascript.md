@@ -34,3 +34,5 @@ class name{
 //forof
 for (const i of obj)
 ```
+
+# promises
