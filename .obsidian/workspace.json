@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "60844406ce4ec14c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7129720c744a0fef",
             "type": "leaf",
             "state": {
@@ -272,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 20
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -417,17 +405,18 @@
   },
   "active": "c47acee9ebfee9cc",
   "lastOpenFiles": [
+    "Nextjs.md",
+    "yo.md",
+    "FullStack/Nodejs/RESTful API.md",
+    "javascript.md",
     "Projects/Projects.md",
     "DevOP/DevOP.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/Docker.md",
     "FullStack/Nodejs/Socker.io.md",
-    "RESTful API.md",
     "FullStack/Nodejs/Nodejs.md",
     "Projects/Scalable ChatApp.md",
-    "javascript.md",
     "FullStack/Nodejs/making a server.md",
-    "Nextjs.md",
     "FullStack/Nodejs",
     "FullStack",
     "DSA/DSA.md",
@@ -442,7 +431,6 @@
     "DevOP/Theory_DevOps/1.Waterfall Model.md",
     "DevOP/Theory_DevOps/4.Devops Tools.md",
     "DevOP/Theory_DevOps",
-    "yo.md",
     "images",
     "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DSA/Segment Trees/Segment Trees.md",
