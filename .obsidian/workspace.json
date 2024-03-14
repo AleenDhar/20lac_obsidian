@@ -248,6 +248,18 @@
             }
           },
           {
+            "id": "26fa8d9c157b7078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equity research analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -260,7 +272,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -326,7 +338,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "javascript.md",
+                "file": "Equity research analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "javascript.md",
+                "file": "Equity research analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,7 +378,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "javascript.md"
+                "file": "Equity research analysis.md"
               }
             }
           },
@@ -403,12 +415,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c47acee9ebfee9cc",
+  "active": "26fa8d9c157b7078",
   "lastOpenFiles": [
+    "javascript.md",
+    "Equity research analysis.md",
     "Nextjs.md",
     "yo.md",
     "FullStack/Nodejs/RESTful API.md",
-    "javascript.md",
     "Projects/Projects.md",
     "DevOP/DevOP.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
@@ -438,7 +451,6 @@
     "DSA/Segment Trees/Untitled 3.md",
     "DSA/Segment Trees/Untitled 2.md",
     "DSA/Segment Trees",
-    "DSA/Array/Array.md",
     "DSA/Array",
     "DSA/Array",
     "DSA",
