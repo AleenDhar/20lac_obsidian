@@ -285,9 +285,11 @@
             "id": "9cd7df74bf98514b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20240317083442.png"
+                "file": "DevOP/Docker.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -370,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20240317083442.png",
+                "file": "DevOP/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -387,7 +389,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/Pasted image 20240317083442.png",
+                "file": "DevOP/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -410,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Pasted image 20240317083442.png"
+                "file": "DevOP/Docker.md"
               }
             }
           },
@@ -447,14 +449,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "54ae309ca018c6fe",
+  "active": "9cd7df74bf98514b",
   "lastOpenFiles": [
+    "DevOP/DevOP.md",
+    "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083032.png",
     "Theory.md",
     "Untitled",
     "images/Pasted image 20240317083657.png",
     "images/Pasted image 20240317083537.png",
-    "images/Pasted image 20240317083442.png",
     "GAN/GAN.md",
     "Equity research analysis.md",
     "GAN",
@@ -463,7 +466,6 @@
     "yo.md",
     "FullStack/Nodejs/RESTful API.md",
     "Projects/Projects.md",
-    "DevOP/DevOP.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
     "DevOP/Docker.md",
     "FullStack/Nodejs/Socker.io.md",
