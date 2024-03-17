@@ -287,7 +287,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DSA/DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -372,7 +372,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DSA/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -389,7 +389,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "DSA/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -412,7 +412,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "DSA/DSA.md"
               }
             }
           },
@@ -451,11 +451,16 @@
   },
   "active": "9cd7df74bf98514b",
   "lastOpenFiles": [
+    "Pasted image 20240317131551.png",
+    "DSA/Segment Trees/Segment Trees.md",
+    "DSA/Array/Array.md",
+    "DSA/DSA.md",
     "DevOP/DevOP.md",
+    "Untitled",
+    "DevOP/Docker.md",
     "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083032.png",
     "Theory.md",
-    "Untitled",
     "images/Pasted image 20240317083657.png",
     "images/Pasted image 20240317083537.png",
     "GAN/GAN.md",
@@ -467,14 +472,12 @@
     "FullStack/Nodejs/RESTful API.md",
     "Projects/Projects.md",
     "DevOP/Theory_DevOps/Theory_DevOps.md",
-    "DevOP/Docker.md",
     "FullStack/Nodejs/Socker.io.md",
     "FullStack/Nodejs/Nodejs.md",
     "Projects/Scalable ChatApp.md",
     "FullStack/Nodejs/making a server.md",
     "FullStack/Nodejs",
     "FullStack",
-    "DSA/DSA.md",
     "DevOP/Kafka.md",
     "DevOP/Redis.md",
     "images/Pasted image 20240305013839.png",
@@ -484,10 +487,8 @@
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
     "DevOP/Theory_DevOps/1.Waterfall Model.md",
-    "DevOP/Theory_DevOps/4.Devops Tools.md",
     "DevOP/Theory_DevOps",
     "images",
-    "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DevOP",
     "DSA/Segment Trees",
     "DSA/Array",
