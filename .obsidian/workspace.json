@@ -272,6 +272,26 @@
             }
           },
           {
+            "id": "bb049ab2c17be979",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20240317083032.png"
+              }
+            }
+          },
+          {
+            "id": "9cd7df74bf98514b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "images/Pasted image 20240317083442.png"
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -284,7 +304,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -350,7 +370,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theory.md",
+                "file": "images/Pasted image 20240317083442.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +387,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theory.md",
+                "file": "images/Pasted image 20240317083442.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +410,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theory.md"
+                "file": "images/Pasted image 20240317083442.png"
               }
             }
           },
@@ -427,12 +447,15 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "3ff9a37440973bc3",
+  "active": "54ae309ca018c6fe",
   "lastOpenFiles": [
-    "Pasted image 20240317083442.png",
-    "Pasted image 20240317083032.png",
-    "GAN/GAN.md",
+    "images/Pasted image 20240317083032.png",
     "Theory.md",
+    "Untitled",
+    "images/Pasted image 20240317083657.png",
+    "images/Pasted image 20240317083537.png",
+    "images/Pasted image 20240317083442.png",
+    "GAN/GAN.md",
     "Equity research analysis.md",
     "GAN",
     "javascript.md",
@@ -465,7 +488,6 @@
     "DSA/Segment Trees/Range Sum Query Immutable.md",
     "DevOP",
     "DSA/Segment Trees",
-    "DSA/Array",
     "DSA/Array",
     "Untitled/Untitled.canvas",
     "Excalidraw/Untitled.canvas"
