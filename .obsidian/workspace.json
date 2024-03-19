@@ -294,6 +294,18 @@
             }
           },
           {
+            "id": "b33d00d336feaf41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -306,7 +318,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -372,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/DSA.md",
+                "file": "Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -389,7 +401,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/DSA.md",
+                "file": "Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -412,7 +424,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/DSA.md"
+                "file": "Poetry.md"
               }
             }
           },
@@ -449,12 +461,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "9cd7df74bf98514b",
+  "active": "b33d00d336feaf41",
   "lastOpenFiles": [
+    "DSA/DSA.md",
+    "Poetry.md",
     "Pasted image 20240317131551.png",
     "DSA/Segment Trees/Segment Trees.md",
     "DSA/Array/Array.md",
-    "DSA/DSA.md",
     "DevOP/DevOP.md",
     "Untitled",
     "DevOP/Docker.md",
