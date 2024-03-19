@@ -8,5 +8,6 @@ poetry env info
 poetry env info -p
 poetry shell
 
-
+poetry add name
+poetry remove name
 ```
