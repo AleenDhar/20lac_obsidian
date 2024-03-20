@@ -10,6 +10,9 @@ poetry shell
 
 poetry add name
 poetry remove name
+
+
+
 ```
 1. **AI-driven Content Curation and Monetization Platform**: Develop a platform that uses AI algorithms to curate personalized content for users, such as articles, videos, and music. Blockchain technology can be utilized to track content usage and ensure fair compensation for content creators through microtransactions.
 2. **Blockchain-based Digital Identity Management System**: Create a decentralized system for managing digital identities using blockchain technology. AI algorithms can help verify and authenticate identities while ensuring privacy and security.
