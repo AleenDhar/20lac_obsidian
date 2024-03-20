@@ -311,6 +311,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eeaa248bdd78520a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Poetry.md",
                 "mode": "source",
                 "source": false
@@ -330,7 +342,7 @@
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 26
       }
     ],
     "direction": "vertical"
@@ -473,10 +485,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "364eed63a621251c",
+  "active": "eeaa248bdd78520a",
   "lastOpenFiles": [
-    "DSA/DSA.md",
+    "Untitled.md",
+    "Theory.md",
     "Poetry.md",
+    "DSA/DSA.md",
     "Pasted image 20240317131551.png",
     "DSA/Segment Trees/Segment Trees.md",
     "DSA/Array/Array.md",
@@ -485,7 +499,6 @@
     "DevOP/Docker.md",
     "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083032.png",
-    "Theory.md",
     "images/Pasted image 20240317083657.png",
     "images/Pasted image 20240317083537.png",
     "GAN/GAN.md",
@@ -511,7 +524,6 @@
     "DevOP/Linux cli.md",
     "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps/2.Agile Model.md",
-    "DevOP/Theory_DevOps/1.Waterfall Model.md",
     "DevOP/Theory_DevOps",
     "images",
     "DevOP",
