@@ -306,6 +306,18 @@
             }
           },
           {
+            "id": "364eed63a621251c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -318,7 +330,7 @@
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -461,7 +473,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "b33d00d336feaf41",
+  "active": "364eed63a621251c",
   "lastOpenFiles": [
     "DSA/DSA.md",
     "Poetry.md",
