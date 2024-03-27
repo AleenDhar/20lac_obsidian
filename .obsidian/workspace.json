@@ -335,7 +335,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poetry.md",
+                "file": "Blockchain/Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -420,7 +420,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poetry.md",
+                "file": "Blockchain/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -437,7 +437,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poetry.md",
+                "file": "Blockchain/Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -460,7 +460,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poetry.md"
+                "file": "Blockchain/Blockchain.md"
               }
             }
           },
@@ -499,18 +499,19 @@
   },
   "active": "691e6f396cfa6b68",
   "lastOpenFiles": [
-    "git.md",
     "DevOP/DevOP.md",
+    "Blockchain/Blockchain.md",
+    "Blockchain",
+    "Poetry.md",
+    "git.md",
     "Projects/Projects.md",
     "DSA/DSA.md",
     "DSA/Array/Array.md",
     "GAN/GAN.md",
     "Theory.md",
-    "Poetry.md",
     "Pasted image 20240317131551.png",
     "Untitled.md",
     "DSA/Segment Trees/Segment Trees.md",
-    "Untitled",
     "DevOP/Docker.md",
     "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083032.png",
@@ -535,7 +536,6 @@
     "Projects",
     "DevOP/Grafana, Prometheus and Loki.md",
     "DevOP/Linux cli.md",
-    "DevOP/Theory_DevOps/3.Devops.md",
     "DevOP/Theory_DevOps",
     "images",
     "DevOP",
