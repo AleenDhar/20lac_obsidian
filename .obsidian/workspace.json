@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devika.md",
+                "file": "DevOP/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devika.md",
+                "file": "DevOP/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devika.md",
+                "file": "DevOP/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devika.md"
+                "file": "DevOP/Docker.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "86d27dd9cd944294",
   "lastOpenFiles": [
+    "Devika.md",
     "DevOP/Docker.md",
     "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
@@ -177,7 +178,6 @@
     "FullStack/Nodejs/Nodejs.md",
     "FullStack/Nodejs/making a server.md",
     "DevOP/Kafka.md",
-    "Devika.md",
     "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "Blockchain/Blockchain.md",
