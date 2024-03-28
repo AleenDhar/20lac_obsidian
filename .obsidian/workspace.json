@@ -366,6 +366,18 @@
             }
           },
           {
+            "id": "c1d55b666f8affad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hackathon/Supplychain datasharing using fetch and hf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a67fb1e40d5312a3",
             "type": "leaf",
             "state": {
@@ -378,7 +390,7 @@
             }
           }
         ],
-        "currentTab": 29
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -521,11 +533,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c9efda92ff7892ec",
+  "active": "c1d55b666f8affad",
   "lastOpenFiles": [
+    "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
+    "Hackathon/Supplychain datasharing using fetch and hf.md",
     "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Hackathon.md",
-    "Hackathon/Supplychain datasharing using fetch and hf.md",
     "Blockchain/Blockchain.md",
     "Hackathon",
     "DevOP/DevOP.md",
@@ -558,7 +571,6 @@
     "FullStack/Nodejs/making a server.md",
     "FullStack/Nodejs",
     "FullStack",
-    "DevOP/Kafka.md",
     "images/Pasted image 20240305013839.png",
     "Projects",
     "DevOP/Theory_DevOps",
