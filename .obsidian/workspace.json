@@ -371,7 +371,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "DevOP/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -456,7 +456,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "DevOP/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +473,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "DevOP/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,7 +496,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md"
+                "file": "DevOP/Docker.md"
               }
             }
           },
@@ -535,11 +535,11 @@
   },
   "active": "c1d55b666f8affad",
   "lastOpenFiles": [
+    "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/Docker.md",
     "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
-    "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Hackathon.md",
     "Blockchain/Blockchain.md",
     "Hackathon",
