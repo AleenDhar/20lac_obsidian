@@ -371,7 +371,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "mode": "source",
                 "source": false
               }
@@ -456,7 +456,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -473,7 +473,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -496,7 +496,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "Hackathon/Fraud detection using fetch and HF.md"
               }
             }
           },
@@ -535,6 +535,7 @@
   },
   "active": "c1d55b666f8affad",
   "lastOpenFiles": [
+    "DevOP/Docker.md",
     "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
@@ -553,7 +554,6 @@
     "Pasted image 20240317131551.png",
     "Untitled.md",
     "DSA/Segment Trees/Segment Trees.md",
-    "DevOP/Docker.md",
     "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083032.png",
     "images/Pasted image 20240317083657.png",
