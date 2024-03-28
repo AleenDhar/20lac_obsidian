@@ -4,381 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24e38870a36bbbfb",
+        "id": "b6d16e2450d15570",
         "type": "tabs",
         "children": [
           {
-            "id": "f3559e68fe0041ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0e66fdd740b5dae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83bddd1885695d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Segment Trees/Segment Trees.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81a7a4fd38271672",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Segment Trees/Range Sum Query Immutable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7129720c744a0fef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Segment Trees/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44864b4021be47c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1adf095496a0a104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Theory_DevOps/Theory_DevOps.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce6428a1488c1261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Theory_DevOps/Theory_DevOps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ae6b9298b7e77ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Theory_DevOps/1.Waterfall Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c687c00b4d040bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Theory_DevOps/3.Devops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "06c2a7cc0b33acfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d626e34278b1ff8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Kafka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3edbd79e002b55c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/DevOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5631e67432c9822c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/DevOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de42841b890b302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/DevOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e6d399ed44404ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStack/Nodejs/Nodejs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4c441ba2590269c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStack/Nodejs/making a server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b634e2e3d245ca3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStack/Nodejs/Nodejs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "509e93aef9dafc9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FullStack/Nodejs/Nodejs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47acee9ebfee9cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26fa8d9c157b7078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GAN/GAN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ff9a37440973bc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb049ab2c17be979",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20240317083032.png"
-              }
-            }
-          },
-          {
-            "id": "9cd7df74bf98514b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/DSA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b33d00d336feaf41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "364eed63a621251c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eeaa248bdd78520a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/DevOP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "691e6f396cfa6b68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathon/Hackathon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11eef30c772d5594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathon/Supplychain datasharing using fetch and hf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9efda92ff7892ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hackathon/Supplychain datasharing using fetch and hf.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1d55b666f8affad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DevOP/Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a67fb1e40d5312a3",
+            "id": "86d27dd9cd944294",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -389,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 30
+        ]
       }
     ],
     "direction": "vertical"
@@ -533,42 +162,41 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c1d55b666f8affad",
+  "active": "86d27dd9cd944294",
   "lastOpenFiles": [
-    "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/Docker.md",
     "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
-    "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "Hackathon/Hackathon.md",
+    "Poetry.md",
+    "DSA/DSA.md",
+    "images/Pasted image 20240317083032.png",
+    "Theory.md",
+    "GAN/GAN.md",
+    "javascript.md",
+    "FullStack/Nodejs/Nodejs.md",
+    "FullStack/Nodejs/making a server.md",
+    "DevOP/Kafka.md",
+    "Devika.md",
+    "Hackathon/Fraud detection using fetch and HF.md",
+    "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "Blockchain/Blockchain.md",
     "Hackathon",
     "Blockchain",
-    "Poetry.md",
     "git.md",
     "Projects/Projects.md",
-    "DSA/DSA.md",
     "DSA/Array/Array.md",
-    "GAN/GAN.md",
-    "Theory.md",
     "Pasted image 20240317131551.png",
     "Untitled.md",
     "DSA/Segment Trees/Segment Trees.md",
     "images/Pasted image 20240317083442.png",
-    "images/Pasted image 20240317083032.png",
     "images/Pasted image 20240317083657.png",
     "images/Pasted image 20240317083537.png",
     "Equity research analysis.md",
     "GAN",
-    "javascript.md",
     "Nextjs.md",
     "yo.md",
     "FullStack/Nodejs/RESTful API.md",
-    "DevOP/Theory_DevOps/Theory_DevOps.md",
-    "FullStack/Nodejs/Socker.io.md",
-    "FullStack/Nodejs/Nodejs.md",
-    "Projects/Scalable ChatApp.md",
-    "FullStack/Nodejs/making a server.md",
     "FullStack/Nodejs",
     "FullStack",
     "images/Pasted image 20240305013839.png",
