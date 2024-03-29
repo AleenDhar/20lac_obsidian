@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c232fd7a039603a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Speech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Speech.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Speech.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md"
+                "file": "Speech.md"
               }
             }
           },
@@ -162,8 +175,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "86d27dd9cd944294",
+  "active": "c232fd7a039603a4",
   "lastOpenFiles": [
+    "Speech.md",
+    "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "DevOP/Redis.md",
     "DevOP/Linux cli.md",
@@ -181,7 +196,6 @@
     "javascript.md",
     "FullStack/Nodejs/Nodejs.md",
     "FullStack/Nodejs/making a server.md",
-    "Hackathon/Fraud detection using fetch and HF.md",
     "Blockchain/Blockchain.md",
     "Hackathon",
     "Blockchain",
@@ -197,7 +211,6 @@
     "Equity research analysis.md",
     "GAN",
     "Nextjs.md",
-    "yo.md",
     "FullStack/Nodejs",
     "FullStack",
     "images/Pasted image 20240305013839.png",
