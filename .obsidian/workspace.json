@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "Hackathon/Fraud detection using fetch and HF.md"
               }
             }
           },
@@ -164,8 +164,12 @@
   },
   "active": "86d27dd9cd944294",
   "lastOpenFiles": [
-    "Devika.md",
+    "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
+    "DevOP/Redis.md",
+    "DevOP/Linux cli.md",
+    "DevOP/Kafka.md",
     "DevOP/Docker.md",
+    "Devika.md",
     "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
     "Hackathon/Hackathon.md",
@@ -177,9 +181,7 @@
     "javascript.md",
     "FullStack/Nodejs/Nodejs.md",
     "FullStack/Nodejs/making a server.md",
-    "DevOP/Kafka.md",
     "Hackathon/Fraud detection using fetch and HF.md",
-    "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "Blockchain/Blockchain.md",
     "Hackathon",
     "Blockchain",
@@ -196,7 +198,6 @@
     "GAN",
     "Nextjs.md",
     "yo.md",
-    "FullStack/Nodejs/RESTful API.md",
     "FullStack/Nodejs",
     "FullStack",
     "images/Pasted image 20240305013839.png",
