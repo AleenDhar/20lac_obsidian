@@ -1,1 +1,0 @@
-Fraud in banking in one of the major problems in the financial market
