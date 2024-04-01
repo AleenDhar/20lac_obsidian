@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Poetry.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "poe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Poetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Poetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md"
+                "file": "Poetry.md"
               }
             }
           },
@@ -176,10 +176,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "6dca25637002efcb",
+  "active": "c232fd7a039603a4",
   "lastOpenFiles": [
-    "Poetry.md",
+    "Hackathon/Hackathon.md",
+    "DevOP/DevOP.md",
     "Hackathon/Fraud detection using fetch and HF.md",
+    "Poetry.md",
     "Hackathon/Speech.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
     "DevOP/Redis.md",
@@ -187,9 +189,7 @@
     "DevOP/Kafka.md",
     "DevOP/Docker.md",
     "Devika.md",
-    "DevOP/DevOP.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
-    "Hackathon/Hackathon.md",
     "DSA/DSA.md",
     "images/Pasted image 20240317083032.png",
     "Theory.md",
