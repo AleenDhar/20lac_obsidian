@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#used",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,11 +78,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.50484466552734
+    "width": 258.50484466552734,
+    "collapsed": true
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -175,7 +177,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c232fd7a039603a4",
+  "active": "6dca25637002efcb",
   "lastOpenFiles": [
     "Poetry.md",
     "Hackathon/Fraud detection using fetch and HF.md",
