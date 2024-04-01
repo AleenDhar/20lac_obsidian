@@ -61,8 +61,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poe",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -176,7 +176,7 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c232fd7a039603a4",
+  "active": "6dca25637002efcb",
   "lastOpenFiles": [
     "Hackathon/Hackathon.md",
     "DevOP/DevOP.md",
