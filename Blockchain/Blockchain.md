@@ -9,3 +9,15 @@ npx hardhat
 npm i ethers@5.7.2
 npm i web3modal@1.9.12
 ```
+
+	
+
+connecting react and hardhat:
+
+```
+npx create-react-app .
+```
+
+```
+npm install "react-router-dom" "hardhat" "ethers" "dotenv" "@nomicfoundation/hardhat-ignition" "@nomicfoundation/hardhat-toolbox"
+```
