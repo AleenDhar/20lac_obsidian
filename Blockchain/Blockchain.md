@@ -21,3 +21,7 @@ npx create-react-app .
 ```
 npm install "react-router-dom" "hardhat" "ethers" "dotenv" "@nomicfoundation/hardhat-ignition" "@nomicfoundation/hardhat-toolbox"
 ```
+
+```
+npx hardhat init
+```
