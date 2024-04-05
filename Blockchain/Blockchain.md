@@ -26,3 +26,6 @@ npm install "react-router-dom" "hardhat" "ethers" "dotenv" "@nomicfoundation/har
 npx hardhat init
 ```
 
+```
+npx hardhat compile
+```
