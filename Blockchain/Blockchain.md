@@ -28,4 +28,5 @@ npx hardhat init
 
 ```
 npx hardhat compile
+npx hardhat ignition deploy ignition/modules/Apple.js --network TestGanache
 ```
