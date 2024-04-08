@@ -72,19 +72,9 @@ useEffect(()=>{//works when account is chnaged "accountsChanged"=> event
 
 useEffect(()=>{//works when account is chnaged "accountsChanged"=> event
 
-    ethereum.on("chainChanged", (accounts)=>{
+    ethereum.on("chainChanged", (chain)=>{
 
-      setAddress(accounts[0])
-
-      const getBal=async()=>{
-
-        let balance = await window.ethereum.request({method:"eth_getBalance", params: [accounts[0],'latest']})
-
-        setbalance((parseInt(String(balance),16)/10**18))
-
-      }
-
-      getBal()
+     console.log(chain)
 
     })
 
