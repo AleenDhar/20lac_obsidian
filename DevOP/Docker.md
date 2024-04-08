@@ -130,3 +130,8 @@ connecting to the docker using ssh
 ssh -p 22 myuser@localhost
 ```
 
+```bash
+Docker inspect --format='{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' sad_villani
+```
+
+
