@@ -30,3 +30,15 @@ npx hardhat init
 npx hardhat compile
 npx hardhat ignition deploy ignition/modules/Apple.js --network TestGanache
 ```
+
+
+# ether.js
+
+gets access to metamask wallet
+```
+await window.ethereum.request({method:"eth_requestAccounts"})
+
+await window.ethereum.isConnected()
+
+await window.ethereum.isMetaMask
+```
