@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfc7c058fcb92f6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.50484466552734,
-    "collapsed": true
+    "width": 258.50484466552734
   },
   "right": {
     "id": "cfcaeb8c5289ca15",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/Docker.md",
+                "file": "AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/Docker.md"
+                "file": "AWS.md"
               }
             }
           },
@@ -176,11 +187,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "c232fd7a039603a4",
+  "active": "bfc7c058fcb92f6c",
   "lastOpenFiles": [
+    "DevOP/Docker.md",
+    "AWS.md",
+    "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/DevOP.md",
     "Blockchain/Blockchain.md",
-    "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Hackathon.md",
     "Poetry.md",
     "Hackathon/Speech.md",
@@ -188,7 +201,6 @@
     "DevOP/Redis.md",
     "DevOP/Linux cli.md",
     "DevOP/Kafka.md",
-    "DevOP/Docker.md",
     "Devika.md",
     "Hackathon/Supplychain datasharing using fetch and hf.md",
     "DSA/DSA.md",
@@ -211,7 +223,6 @@
     "images/Pasted image 20240317083537.png",
     "Equity research analysis.md",
     "GAN",
-    "Nextjs.md",
     "FullStack/Nodejs",
     "FullStack",
     "images/Pasted image 20240305013839.png",
