@@ -28,13 +28,20 @@ git init --bare
 ```
 add your own ssh key to the t2.micro
 ```
-
+cd home/git
+mkdir .ssh
+cd .ssh
+vim authorized_keys
 ```
+
 ```
 #this will show 
 cat ~/.ssh/id_ed25519.pub 
 ```
-
+past the key and press ctrl+c and type
+```
+:wq
+```
 clone the repo u made inside the t2.micro
 ```
 git clone git@13.232.166.162:/var/lib/git/my-review-app.git
