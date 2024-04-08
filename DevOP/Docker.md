@@ -127,7 +127,7 @@ docker build -t my-ubuntu-sshd:latest .
 ```
 making a container
 ```
-docker run -d -p 2222:22 -e SSH_USERNAME=myuser -e PASSWORD=1234 -e AUTHORIZED_KEYS="$(cat ~/.ssh/id_ed25519.pub)" my-ubuntu-sshd:latest
+docker run -d -p 2222:22 --name ssh-ubuntu -e SSH_USERNAME=myuser -e PASSWORD=1234 -e AUTHORIZED_KEYS="$(cat ~/.ssh/id_ed25519.pub)" my-ubuntu-sshd:latest
 ```
 connecting to the docker using ssh
 ```
