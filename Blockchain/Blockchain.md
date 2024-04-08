@@ -42,3 +42,7 @@ await window.ethereum.isConnected()
 
 await window.ethereum.isMetaMask
 ```
+get balance
+```
+const balan
+```
