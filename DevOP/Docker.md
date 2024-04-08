@@ -121,9 +121,13 @@ accessing your own public key
 ```
 cat ~/.ssh/id_ed25519.pub
 ```
+building a container
+```
+docker build -t my-ubuntu-sshd:latest .
+```
 making a container
 ```
-docker run -d -p 2222:22 -e SSH_USERNAME= -e PASSWORD=1234 -e AUTHORIZED_KEYS="$(cat ~/.ssh/id_ed25519.pub)" my-ubuntu-sshd:latest
+docker run -d -p 2222:22 -e SSH_USERNAME=myuser -e PASSWORD=1234 -e AUTHORIZED_KEYS="$(cat ~/.ssh/id_ed25519.pub)" my-ubuntu-sshd:latest
 ```
 connecting to the docker using ssh
 ```
