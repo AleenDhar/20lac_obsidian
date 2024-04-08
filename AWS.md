@@ -15,6 +15,14 @@ sudo su git
 dont know the password to ubuntu machine use 'crtl'+d
 
 ```
+// after going back to ubuntu
 sudo chown -R git /var/lib/git
 ```
 
+create a dot git file 
+```
+mkdir my-review-app.git
+cd my-review-app.git
+
+git init --bare
+```
