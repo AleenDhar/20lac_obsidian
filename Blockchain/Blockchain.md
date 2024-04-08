@@ -46,3 +46,58 @@ get balance
 ```
 let balance = await window.ethereum.request({method:"eth_getBalance"})
 ```
+
+add chain
+```
+ const changeChain = async()=>{
+
+    await window.ethereum.request({
+
+      "method": "wallet_addEthereumChain",
+
+      "params": [
+
+        {
+
+          "chainId": "0x64",
+
+          "chainName": "Gnosis",
+
+          "rpcUrls": [
+
+            "https://rpc.ankr.com/gnosis"
+
+          ],
+
+          "iconUrls": [
+
+            "https://xdaichain.com/fake/example/url/xdai.svg",
+
+            "https://xdaichain.com/fake/example/url/xdai.png"
+
+          ],
+
+          "nativeCurrency": {
+
+            "name": "xDAI",
+
+            "symbol": "xDAI",
+
+            "decimals": 18
+
+          },
+
+          "blockExplorerUrls": [
+
+            "https://blockscout.com/poa/xdai/"
+
+          ]
+
+        }
+
+      ]
+
+    });
+
+  }
+```
