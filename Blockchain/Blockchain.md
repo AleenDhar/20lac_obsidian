@@ -44,5 +44,5 @@ await window.ethereum.isMetaMask
 ```
 get balance
 ```
-const balan
+let balance = await window.ethereum.request({method:"eth_getBalance"})
 ```
