@@ -114,3 +114,15 @@ make you own private network (here -d stands for driver)
 ```
 docker network create -d bridge 
 ```
+
+# running a ssh enabled docker
+accessing your own public key
+
+```
+cat ~/.ssh/id_ed25519.pub
+```
+
+connecting to the docker using ssh
+```
+ssh -p 22 myuser@localhost
+```
