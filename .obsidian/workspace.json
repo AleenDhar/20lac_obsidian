@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS.md",
+                "file": "DevOP/AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS.md",
+                "file": "DevOP/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS.md",
+                "file": "DevOP/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS.md"
+                "file": "DevOP/AWS.md"
               }
             }
           },
@@ -187,13 +187,13 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "bfc7c058fcb92f6c",
+  "active": "54ae309ca018c6fe",
   "lastOpenFiles": [
-    "DevOP/Docker.md",
-    "AWS.md",
-    "Hackathon/Fraud detection using fetch and HF.md",
-    "DevOP/DevOP.md",
     "Blockchain/Blockchain.md",
+    "DevOP/DevOP.md",
+    "DevOP/Docker.md",
+    "DevOP/AWS.md",
+    "Hackathon/Fraud detection using fetch and HF.md",
     "Hackathon/Hackathon.md",
     "Poetry.md",
     "Hackathon/Speech.md",

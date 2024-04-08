@@ -26,3 +26,16 @@ cd my-review-app.git
 
 git init --bare
 ```
+add your own ssh key to the t2.micro
+```
+
+```
+```
+#this will show 
+cat ~/.ssh/id_ed25519.pub 
+```
+
+clone the repo u made inside the t2.micro
+```
+git clone git@13.232.166.162:/var/lib/git/my-review-app.git
+```
