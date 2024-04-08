@@ -47,7 +47,50 @@ get balance
 let balance = await window.ethereum.request({method:"eth_getBalance"})
 ```
 
-add chain
+change account and change chain
+```
+useEffect(()=>{//works when account is chnaged "accountsChanged"=> event
+
+    ethereum.on("accountsChanged", (accounts)=>{
+
+      setAddress(accounts[0])
+
+      const getBal=async()=>{
+
+        let balance = await window.ethereum.request({method:"eth_getBalance", params: [accounts[0],'latest']})
+
+        setbalance((parseInt(String(balance),16)/10**18))
+
+      }
+
+      getBal()
+
+    })
+
+  })
+
+
+useEffect(()=>{//works when account is chnaged "accountsChanged"=> event
+
+    ethereum.on("chainChanged", (accounts)=>{
+
+      setAddress(accounts[0])
+
+      const getBal=async()=>{
+
+        let balance = await window.ethereum.request({method:"eth_getBalance", params: [accounts[0],'latest']})
+
+        setbalance((parseInt(String(balance),16)/10**18))
+
+      }
+
+      getBal()
+
+    })
+
+  })
+```
+add and change chain
 ```
  const changeChain = async()=>{
 
@@ -92,6 +135,28 @@ add chain
             "https://blockscout.com/poa/xdai/"
 
           ]
+
+        }
+
+      ]
+
+    });
+
+  }
+```
+
+switch chain
+```
+ const changeChain = async()=>{
+
+    await window.ethereum.request({
+
+      "method": "wallet_switchEthereumChain",
+
+      "params": [
+
+        {
+          "chainId": "0x64"
 
         }
 
