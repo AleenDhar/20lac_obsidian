@@ -44,7 +44,7 @@ past the key and press ctrl+c and type
 ```
 clone the repo u made inside the t2.micro
 ```
-git clone git@13.232.166.162:/var/lib/git/my-review-app.git
+git clone git@13.201.16.132:/var/lib/git/my-review-app.git
 cd my-review-app
 git remote -v
 ```

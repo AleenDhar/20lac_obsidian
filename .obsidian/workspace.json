@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "DevOP/AWS.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "DevOP/AWS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "DevOP/AWS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/Blockchain.md"
+                "file": "DevOP/AWS.md"
               }
             }
           },
@@ -189,11 +189,11 @@
   },
   "active": "bfc7c058fcb92f6c",
   "lastOpenFiles": [
+    "DevOP/DevOP.md",
+    "Blockchain/Blockchain.md",
     "GAN/GAN.md",
     "Hackathon/Hackathon.md",
     "Projects/Projects.md",
-    "Blockchain/Blockchain.md",
-    "DevOP/DevOP.md",
     "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/Docker.md",
     "DevOP/AWS.md",
