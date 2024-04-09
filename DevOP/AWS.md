@@ -60,6 +60,12 @@ to check the logs
 git log 
 ```
 
+```
+git add .
+git commit -m "second commit"
+git checkout -b "master"
+git push
+```
 in the t2.micro
 ```
 cd objects
