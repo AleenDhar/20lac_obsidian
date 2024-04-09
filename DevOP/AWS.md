@@ -71,3 +71,12 @@ in the t2.micro
 cd objects
 ls
 ```
+
+see the chnages made 
+```
+git diff <id of first commit> <id of another commit>
+```
+
+
+# git web
+
