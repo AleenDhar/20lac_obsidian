@@ -80,3 +80,8 @@ git diff <id of first commit> <id of another commit>
 
 # git web
 
+```
+sudo apt install ruby
+git instaweb --httpd=webrick
+
+```
