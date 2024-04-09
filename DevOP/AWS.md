@@ -51,6 +51,17 @@ git remote -v
 
 ```
 git add .
-
+git commit -m "first commit"
+git checkout -b "master"
+git push
+```
+to check the logs
+```
+git log 
 ```
 
+in the t2.micro
+```
+cd objects
+ls
+```
