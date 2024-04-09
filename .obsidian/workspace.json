@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOP/AWS.md",
+                "file": "Blockchain/Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Blockchain/Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md",
+                "file": "Blockchain/Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hackathon/Fraud detection using fetch and HF.md"
+                "file": "Blockchain/Blockchain.md"
               }
             }
           },
@@ -187,14 +187,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "54ae309ca018c6fe",
+  "active": "bfc7c058fcb92f6c",
   "lastOpenFiles": [
+    "GAN/GAN.md",
+    "Hackathon/Hackathon.md",
+    "Projects/Projects.md",
     "Blockchain/Blockchain.md",
     "DevOP/DevOP.md",
+    "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/Docker.md",
     "DevOP/AWS.md",
-    "Hackathon/Fraud detection using fetch and HF.md",
-    "Hackathon/Hackathon.md",
     "Poetry.md",
     "Hackathon/Speech.md",
     "Hackathon/Smart Retail Inventory Management with FetchAI, Hugging Face, OpenCV.md",
@@ -206,14 +208,12 @@
     "DSA/DSA.md",
     "images/Pasted image 20240317083032.png",
     "Theory.md",
-    "GAN/GAN.md",
     "javascript.md",
     "FullStack/Nodejs/Nodejs.md",
     "FullStack/Nodejs/making a server.md",
     "Hackathon",
     "Blockchain",
     "git.md",
-    "Projects/Projects.md",
     "DSA/Array/Array.md",
     "Pasted image 20240317131551.png",
     "Untitled.md",
