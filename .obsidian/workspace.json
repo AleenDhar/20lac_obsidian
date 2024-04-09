@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOP/AWS.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOP/AWS.md",
+                "file": "Hackathon/Fraud detection using fetch and HF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOP/AWS.md"
+                "file": "Hackathon/Fraud detection using fetch and HF.md"
               }
             }
           },
