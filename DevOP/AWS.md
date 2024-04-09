@@ -1,6 +1,6 @@
 
 # EC2 for git server
-
+for this machine the ip is `13.232.166.162`
 download the name.pem file
 run the code and ssh inside the server
 ```
@@ -82,6 +82,8 @@ git diff <id of first commit> <id of another commit>
 
 ```
 sudo apt install ruby
+sudo apt install gitweb
+sudo su git
 git instaweb --httpd=webrick
 
 ```
