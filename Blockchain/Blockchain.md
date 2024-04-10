@@ -9,6 +9,11 @@ npx hardhat
 npm i ethers@5.7.2
 npm i web3modal@1.9.12
 ```
+## using ThirdWeb
+
+```
+
+```
 
 [connecting ganache with metamash](https://www.youtube.com/watch?v=3Eo6euUnlVU&ab_channel=Soft.Tomatoes)
 
