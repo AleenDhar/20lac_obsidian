@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "Projects/Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "Projects/Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blockchain/Blockchain.md",
+                "file": "Projects/Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blockchain/Blockchain.md"
+                "file": "Projects/Projects.md"
               }
             }
           },
@@ -189,9 +189,10 @@
   },
   "active": "bfc7c058fcb92f6c",
   "lastOpenFiles": [
+    "Blockchain/Blockchain.md",
+    "AR",
     "DevOP/AWS.md",
     "DevOP/DevOP.md",
-    "Blockchain/Blockchain.md",
     "GAN/GAN.md",
     "Hackathon/Hackathon.md",
     "Projects/Projects.md",
@@ -221,7 +222,6 @@
     "images/Pasted image 20240317083442.png",
     "images/Pasted image 20240317083657.png",
     "images/Pasted image 20240317083537.png",
-    "Equity research analysis.md",
     "GAN",
     "FullStack/Nodejs",
     "FullStack",
@@ -230,7 +230,6 @@
     "DevOP/Theory_DevOps",
     "images",
     "DevOP",
-    "DSA/Segment Trees",
     "Untitled/Untitled.canvas",
     "Excalidraw/Untitled.canvas"
   ]
