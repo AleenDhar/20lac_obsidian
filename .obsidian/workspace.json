@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9840a2683343bdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gcloud ppt ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Projects.md",
+                "file": "Gcloud ppt ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Projects.md",
+                "file": "Gcloud ppt ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Projects.md"
+                "file": "Gcloud ppt ideas.md"
               }
             }
           },
@@ -187,15 +199,16 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "bfc7c058fcb92f6c",
+  "active": "9840a2683343bdde",
   "lastOpenFiles": [
+    "Projects/Projects.md",
+    "Gcloud ppt ideas.md",
     "Blockchain/Blockchain.md",
     "AR",
     "DevOP/AWS.md",
     "DevOP/DevOP.md",
     "GAN/GAN.md",
     "Hackathon/Hackathon.md",
-    "Projects/Projects.md",
     "Hackathon/Fraud detection using fetch and HF.md",
     "DevOP/Docker.md",
     "Poetry.md",
