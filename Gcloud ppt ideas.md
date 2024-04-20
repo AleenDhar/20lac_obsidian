@@ -14,3 +14,4 @@
 1. hugging face ss()
 2. training data on gcp
 3. loading the models on the andoid app
+4. product marketing, education, game development, workout partner
