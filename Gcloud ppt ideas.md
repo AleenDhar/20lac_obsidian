@@ -6,3 +6,5 @@
 4. send it to the hosted model on gcp
 5. download the model
 6. display it on the chatbot interface
+
+1. right now we dont have access to apple vision we have created an android app for t
