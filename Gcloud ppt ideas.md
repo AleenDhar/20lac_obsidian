@@ -10,3 +10,7 @@
 
 1. first talk about the app
 2. right now we dont have access to apple vision we have created an android app for the demonstration purose using AR technology
+
+1. hugging face ss()
+2. training data on gcp
+3. loading the models on the andoid app
