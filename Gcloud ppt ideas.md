@@ -7,4 +7,6 @@
 5. download the model
 6. display it on the chatbot interface
 
-1. right now we dont have access to apple vision we have created an android app for t
+
+1. first talk about the app
+2. right now we dont have access to apple vision we have created an android app for the demonstration purose using AR technology
