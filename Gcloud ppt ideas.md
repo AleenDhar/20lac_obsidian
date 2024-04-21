@@ -15,3 +15,6 @@
 2. training data on gcp
 3. loading the models on the andoid app
 4. product marketing, education, game development, workout partner
+
+1. imagine creating 3d objects from scratch
+2. vr technology is still new to us and a highly unexplored space, which has alot of potential use cases and application
